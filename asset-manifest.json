@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/GYMSITE/static/css/main.4d0d2f72.css",
+    "main.js": "/GYMSITE/static/js/main.180c61a2.js",
+    "static/media/home1.jpg": "/GYMSITE/static/media/home1.cfd56ec5c4a650ed5e89.jpg",
+    "static/media/aboutImage.jpg": "/GYMSITE/static/media/aboutImage.bb613a480853a9571106.jpg",
+    "static/media/offer.jpg": "/GYMSITE/static/media/offer.e18f1fedddc9c17e384c.jpg",
+    "static/media/battle-rope.png": "/GYMSITE/static/media/battle-rope.91f81343527879f6f702.png",
+    "static/media/yoga-pose.png": "/GYMSITE/static/media/yoga-pose.dc815c46a616b390299c.png",
+    "static/media/exercise.png": "/GYMSITE/static/media/exercise.a995039335519fa89958.png",
+    "index.html": "/GYMSITE/index.html",
+    "main.4d0d2f72.css.map": "/GYMSITE/static/css/main.4d0d2f72.css.map",
+    "main.180c61a2.js.map": "/GYMSITE/static/js/main.180c61a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d0d2f72.css",
+    "static/js/main.180c61a2.js"
+  ]
+}
